@@ -1,0 +1,11 @@
+numpy
+pillow
+torch>=2.1
+torchvision
+transformers>=4.56
+accelerate
+h5py
+# optional: 4/8-bit loading of Qwen2.5-VL on GPUs with < 24 GB (--quantization 4bit)
+# bitsandbytes
+# optional: MetaFood3D meshes in formats other than .obj
+# trimesh
